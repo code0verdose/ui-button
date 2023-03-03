@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ui-button/static/css/main.302d502f.css",
+    "main.js": "/ui-button/static/js/main.df9035eb.js",
+    "index.html": "/ui-button/index.html",
+    "main.302d502f.css.map": "/ui-button/static/css/main.302d502f.css.map",
+    "main.df9035eb.js.map": "/ui-button/static/js/main.df9035eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.302d502f.css",
+    "static/js/main.df9035eb.js"
+  ]
+}
